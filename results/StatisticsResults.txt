@@ -1,0 +1,65 @@
+Results of computation of file .\4.2.P1\P1\TC1.txt
+The mean is: 242.32
+                The median is: 239.5
+                The mode is: 393
+                The  standard deviation is: 145.25810683056554
+                The variance is: 21152.799598997488
+
+                The computing time was: 0.004956483840942383s
+
+The computing time was: 0.004956483840942383s
+
+
+
+Results of computation of file .\4.2.P1\P1\TC2.txt
+The mean is: 250.7840161861406
+                The median is: 247
+                The mode is: 230
+                The  standard deviation is: 144.17131868884059
+                The variance is: 20795.888043983523
+
+                The computing time was: 0.1277766227722168s
+
+The computing time was: 0.1277766227722168s
+
+
+
+Results of computation of file .\4.2.P1\P1\TC3.txt
+The mean is: 249.77621989860583
+                The median is: 249.0
+                The mode is: 94
+                The  standard deviation is: 145.31784980917976
+                The variance is: 21118.950393821902
+
+                The computing time was: 5.36248517036438s
+
+The computing time was: 5.36248517036438s
+
+
+
+Results of computation of file .\4.2.P1\P1\TC4.txt
+The mean is: 149.00267347908746
+                The median is: 147.75
+                The mode is: 123.75
+                The  standard deviation is: 130.41441961308877
+                The variance is: 17009.268218511388
+
+                The computing time was: 5.250405788421631s
+
+The computing time was: 5.250405788421631s
+
+
+
+Results of computation of file .\4.2.P1\P1\TC5.txt
+The mean is: 241.49511400651465
+                The median is: 241.0
+                The mode is: 466.0
+                The  standard deviation is: 145.46484786056652
+                The variance is: 21229.17236166998
+
+                The computing time was: 0.009945154190063477s
+
+The computing time was: 0.009945154190063477s
+
+
+
